@@ -12,7 +12,7 @@ public class TestRegistrationPageLogin
 
         driver.navigate().to("http://www.facebook.com");
 
-        RegistrationPage registrationPage = new RegistrationPage(driver);
+        RegistrationPage_Old registrationPage = new RegistrationPage_Old(driver);
 
         registrationPage.setEmail(emailAddress);
         registrationPage.setPass(password);
