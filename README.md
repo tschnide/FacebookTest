@@ -7,3 +7,4 @@
     
     * Set two environment variables for the email and password that you want to use to login.
     
+        * In my case it was necessary to close my ide, then set the variables, and then open the project back up.
