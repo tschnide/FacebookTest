@@ -8,3 +8,5 @@ Tests/Tests\.iml
 FacebookTest\.iml
 
 out/
+
+TestFramework/TestFramework\.iml
